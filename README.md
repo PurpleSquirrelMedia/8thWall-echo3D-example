@@ -42,7 +42,7 @@ Refer to our [documentation](https://docs.echo3D.co/) to learn more about how to
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Screenshots
-[AFrame Image Target Exmaple](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Image%20Targets%20Flyer)
+[AFrame Image Target Example](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Image%20Targets%20Flyer)
 
 ![A-Frame Image Targets](/Examples/A-Frame%20Image%20Targets%20Flyer/Screenshot.gif)
 
@@ -50,7 +50,7 @@ Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join 
 
 ![A-Frame Manipulate 3D Model](/Examples/A-Frame%20Manipulate%203D%20Model/Screenshot.gif)
 
-[A-Frame Place Ground Exmaple](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Place%20Ground)
+[A-Frame Place Ground Example](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Place%20Ground)
 
 ![A-Frame Place Ground](/Examples/A-Frame%20Place%20Ground/Screenshot.gif)
 
