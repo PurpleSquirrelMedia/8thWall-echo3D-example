@@ -46,7 +46,7 @@ Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join 
 
 ![A-Frame Image Targets](/Examples/A-Frame%20Image%20Targets%20Flyer/Screenshot.gif)
 
-[AFrame Manipulate 3D Model Exmaple](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Manipulate%203D%20Model)
+[AFrame Manipulate 3D Model Example](https://github.com/echo3Dco/8thWall-echo3D-example/tree/main/Examples/A-Frame%20Manipulate%203D%20Model)
 
 ![A-Frame Manipulate 3D Model](/Examples/A-Frame%20Manipulate%203D%20Model/Screenshot.gif)
 
